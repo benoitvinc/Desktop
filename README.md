@@ -14,6 +14,10 @@
  * ncdu					- The best disk space utility
  * chrome-gnome-shell	- Install extensions from https://extensions.gnome.org/
  * gnome-tweaks			- Manage settings in GNOME
+ 
+ ## Other
+  * Sound Selector Indicator
+    - https://yktoo.com/en/software/sound-switcher-indicator/
 
 ## Enable backups
 
