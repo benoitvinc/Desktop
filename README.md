@@ -15,10 +15,6 @@
  * chrome-gnome-shell	- Install extensions from https://extensions.gnome.org/
  * gnome-tweaks			- Manage settings in GNOME
 
-## Off-piste
-
-
-
 ## Enable backups
 
   - XXXXXXXX
@@ -44,11 +40,9 @@
 ## Extensions
 
 ### Installed
-
- * xxx
+ * [Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/)  	- Conveniently create, copy, store and upload screenshots
+ * [Panel Indicator](https://extensions.gnome.org/extension/2416/panel-indicators/)  	- Move the Power/Network/Volume/User/Date/Notifications menus to the status area.
+ * [Cpu power manager](https://extensions.gnome.org/extension/945/cpu-power-manager/)  - Manage Intel_pstate CPU Frequency scaling driver
 
 ### Maybe install later
 
- * [DashToDock](https://extensions.gnome.org/extension/307/dash-to-dock/)
- * [Shell notification move](https://extensions.gnome.org/extension/204/shell-notification-move/)
- * [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)
