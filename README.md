@@ -40,6 +40,7 @@
 ## Extensions
 
 ### Installed
+ * [Dash to dock](https://extensions.gnome.org/extension/307/dash-to-dock/)  	- A dock for the Gnome Shell.
  * [Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/)  	- Conveniently create, copy, store and upload screenshots
  * [Panel Indicator](https://extensions.gnome.org/extension/2416/panel-indicators/)  	- Move the Power/Network/Volume/User/Date/Notifications menus to the status area.
  * [Cpu power manager](https://extensions.gnome.org/extension/945/cpu-power-manager/)  - Manage Intel_pstate CPU Frequency scaling driver
