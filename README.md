@@ -6,7 +6,6 @@
  * [sublime-text](https://snapcraft.io/code)  		    - Visual Studio Code
  * [VS Code](https://snapcraft.io/sublime-text)  		- Preferred text editor
  * [multipass](https://snapcraft.io/multipass)     		- VM manager
- * [ncspot](https://snapcraft.io/ncspot)				- Spotify ncurses client
 
 ## debs I installed
 
@@ -46,11 +45,7 @@
 
 ### Installed
  * [Dash to dock](https://extensions.gnome.org/extension/307/dash-to-dock/)  	- A dock for the Gnome Shell.
- * [Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/)  	- Conveniently create, copy, store and upload screenshots
- * [Calendar Improved](https://extensions.gnome.org/extension/2386/calendar-improved/)  	- Improved, human friendly calendar
- * [Cpu power manager](https://extensions.gnome.org/extension/945/cpu-power-manager/)  - Manage Intel_pstate CPU Frequency scaling driver
  * [Notification Banner Position](https://extensions.gnome.org/extension/1568/notification-banner-positionselenium-h/)  - Simple GNOME Shell extension to place notification banner at Top Left or Top Right. Set the position by uncommenting the proper function in extension.js file
- * [Sound Input & Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/)  - Shows a list of sound output and input devices 
- * [Panel indicator](https://github.com/lvitals/panel-indicators)  - Move the Power/Network/Volume/User/Date/Notifications menus to the status area.
+ * [Resource Monitor](https://extensions.gnome.org/extension/1634/resource-monitor/)  - Monitor the use of system resources like cpu, ram, disk, network and display them in gnome shell top bar.
 ### Maybe install later
 
