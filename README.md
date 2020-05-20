@@ -14,6 +14,7 @@
  * chrome-gnome-shell	- Install extensions from https://extensions.gnome.org/
  * gnome-tweaks			- Manage settings in GNOME
  * Ranger			- Console file manager
+ * Mosh   - Good client for "ssh" over bad network
  
  ## Other
   * Sound Selector Indicator
