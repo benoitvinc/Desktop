@@ -1,2 +1,2 @@
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-614255a759182408a18e20a9" tvg-id="5e20b730f2f8d5003d739db7-614255a759182408a18e20a9" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/unvaled_logo_dark.png",unVALEd Network
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=980&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=1V7whsYAcyTz75symy_V&custom_7=614255a759182408a18e20a9
+#EXTINF:10 tvg-name="TVA" tvg-language="French" tvg-country="CA" tvg-id="tva/CFTM" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/23/TVA_%28logo%2C_2020%29.svg/1200px-TVA_%28logo%2C_2020%29.svg.png" group-title="News",TVA
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
