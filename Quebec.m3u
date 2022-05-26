@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://github.com/epgshare01/share01/raw/master/epg_ripper_CA1.xml.gz"
 #EXTINF:-1 tvg-name="ICI Télé Montréal (2)"tvg-id="CBFT.-.ICI.Radio-Canada.(CBFT).ca"tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png"tvg-chno="43"group-title="📺 Canada Français",ICI Télé Montréal (2)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-name="Noovo (1)"tvg-id="Noovo.Montreal.HD.(NVMT).ca"tvg-logo="https://od.lk/s/MF8yNDU0MDY4Mzlf/Noovo_608x608.png"tvg-chno="17"group-title="📺 Canada Français",Noovo (1)
