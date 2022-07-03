@@ -16,4 +16,4 @@ https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-name="Global News Montreal"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png"tvg-chno="183"group-title="📺 Canada English",Global News Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
 #EXTINF:-1 tvg-name="Test"tvg-id="Information.Channel.(Generic).(INFO).ca"tvg-logo="https://od.lk/s/MF8yMzMyNDA1OTdf/GlobalNews_650x650.png"tvg-chno="183"group-title="📺 HD HomeRun",Global
-http://192.168.2.30:5004/auto/v29.1.ts
+http://192.168.2.30:5004/auto/v29.1
